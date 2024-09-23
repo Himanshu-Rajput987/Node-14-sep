@@ -1,5 +1,5 @@
 {
-  "name": "node-11-practice",
+  "name": "11-practice",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
